@@ -30,7 +30,7 @@
 👤
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
+My partners: Nytare Guy, Ivan Barbosa da Silva
 
 Feel free to check the [issues page](../../issues/).
 
